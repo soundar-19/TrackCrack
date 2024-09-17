@@ -1,0 +1,15 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/historyFragment">
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.sr.trackcrack.ui.history.HistoryFragment"
+        tools:layout="@layout/fragment_history" />
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.sr.trackcrack.ui.map.MapFragment"
+        tools:layout="@layout/fragment_map" />
+</navigation>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="searchViewBackground">#FFFFFF</color> <!-- White -->
+    <color name="gray">#FF808080</color>
+    <color name="button_border_color">#DCF8F5</color> <!-- Example border color -->
+    <color name="button_color">#009688</color>
+
+    <color name="accent_color">#03A9F4</color>
+
+
+        <color name="colorPrimary">#009688</color> <!-- Teal -->
+        <color name="colorPrimaryDark">#00796B</color> <!-- Darker Teal -->
+        <color name="colorPrimaryLight">#B2DFDB</color> <!-- Lighter Teal -->
+        <color name="colorAccent">#FFC107</color> <!-- Amber -->
+        <color name="colorAccentLight">#FFECB3</color> <!-- Lighter Amber -->
+
+        <color name="background_color">#F5F5F5</color> <!-- Light Grey -->
+        <color name="card_background">#FFFFFF</color> <!-- White -->
+
+        <color name="primary_text_color">#009688</color> <!-- Almost Black -->
+        <color name="secondary_text_color">#333333</color> <!-- Dark Grey -->
+
+        <color name="button_text_color">#FFFFFF</color> <!-- White -->
+        <color name="button_disabled_color">#BDBDBD</color> <!-- Grey -->
+
+        <color name="status_background_color">#E0F2F1</color> <!-- Very Light Teal -->
+        <color name="ripple_color">#4E6E6B</color> <!-- Light Teal -->
+
+        <color name="details_background_color">#FFFFFF</color> <!-- White -->
+        <color name="details_border_color">#BDBDBD</color> <!-- Grey -->
+
+        <color name="time_background_color">#E8F5E9</color> <!-- Very Light Green -->
+        <color name="count_background_color">#FFF3E0</color> <!-- Very Light Orange -->
+        <color name="hint">#BDBDBD</color>
+
+
+        <color name="focus_button_color">#FFFFFF</color> <!-- White -->
+
+        <color name="map_button_color">#009688</color> <!-- Teal -->
+        <color name="map_button_pressed_color">#00796B</color> <!-- Darker Teal -->
+
+        <!-- Additional colors for various states -->
+        <color name="error">#F44336</color> <!-- Red -->
+        <color name="success_color">#4CAF50</color> <!-- Green -->
+        <color name="warning_color">#FF9800</color> <!-- Orange -->
+        <color name="info_color">#2196F3</color> <!-- Blue -->
+        <color name="primaryBlue">#00796B</color>
+        <color name="background">#F5F5F5</color>"
+</resources>

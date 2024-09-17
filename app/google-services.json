@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1034675564321",
+    "project_id": "railtrackcrackdetector",
+    "storage_bucket": "railtrackcrackdetector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034675564321:android:ede44a5578e90d7dead860",
+        "android_client_info": {
+          "package_name": "com.sr.trackcrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034675564321-luacghur7rbuf9gdbkvsii064s68qird.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sr.trackcrack",
+            "certificate_hash": "fdfffca4aa9bb67d2142219bbfb02cfc4b2b0231"
+          }
+        },
+        {
+          "client_id": "1034675564321-viegqo122clj7q2u2c1gud6niad1teh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZOKN1gk8BGQOscuub6JaFKsB772wTHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034675564321-viegqo122clj7q2u2c1gud6niad1teh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

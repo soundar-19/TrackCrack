@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TrackCrack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_Logout">Logout</string>
+    <string name="Change_Location">Change Location</string>
+    <string name="menu_home">Home</string>
+    <string name="action_settings">Help?</string>
+    <string name="menu_history">History</string>
+    <string name="Select_Location">Select Location</string>
+    <string name="menu_analytics">Analytics</string>
+    <string name="osmdroid_cache_path">/path/to/cache</string>
+    <string name="default_web_client_id">1034675564321-viegqo122clj7q2u2c1gud6niad1teh9.apps.googleusercontent.com</string>
+    <string name="request_inspection">Request Inspection</string>
+    <string name="focus_map">Focus Map</string>
+    <string name="inspection_details">Inspection Details</string>
+    <string name="inspection_id">Inspection Id : Inspection_143</string>
+    <string name="welcome_to_track_crack">Welcome To Track Crack</string>
+    <string name="please_log_in">Please Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string-array name="date_range_options">
+        <item>Today</item>
+        <item>This Week</item>
+        <item>This Month</item>
+        <item>This Year</item>
+        <item>Custom Range</item>
+    </string-array>
+</resources>
